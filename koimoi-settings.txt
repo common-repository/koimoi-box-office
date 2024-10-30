@@ -1,0 +1,1 @@
+{"2":{"shadow":"1","gray":null,"bounce":null,"frame":null,"wide":null,"caption_type":"normal","name":"sdf","1":{"path":"4160ANTOP HILL WADALA.jpg","main":"","sub":"sdfsdfsf","lnk":"","f":"","t":"","l":""}}}
